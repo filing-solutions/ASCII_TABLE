@@ -1,0 +1,1 @@
+To draw an ASCII table just place the index.php script into your server and point the url to this file.
